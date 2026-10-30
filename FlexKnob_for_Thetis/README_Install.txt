@@ -4,7 +4,7 @@ FlexControl Knob for Thetis v1.0.0  (KW4EX)  -  INSTALL INSTRUCTIONS
 Written for radio operators, not programmers. Every step says what to click.
 
 NO WARRANTY - USE AT YOUR OWN RISK
-  This program is shared free by one radio operator, as is. There is no
+  This program is shared by one radio operator, as is. There is no
   warranty of any kind: no promise that it works, that it is safe, or that it
   suits your equipment or your purpose. Amplifiers, radios and antennas can be
   damaged, and RF can be dangerous. TUNE and MOX on the knob really transmit.

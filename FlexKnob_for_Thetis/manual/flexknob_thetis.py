@@ -1200,7 +1200,7 @@ a{color:var(--acc)}
 
 <div class="card"><h2>Recent activity</h2><pre id="log"></pre></div>
 
-<div class="small">No warranty &mdash; use at your own risk. This program is shared free by one radio operator, <b>as is</b>. There is <b>no warranty of any kind</b>. TUNE and MOX really transmit: you are responsible for your station and for operating within your license. Not made, approved or supported by FlexRadio or Thetis. MIT License. 73 de KW4EX</div>
+<div class="small">No warranty &mdash; use at your own risk. This program is shared by one radio operator, <b>as is</b>. There is <b>no warranty of any kind</b>. TUNE and MOX really transmit: you are responsible for your station and for operating within your license. Not made, approved or supported by FlexRadio or Thetis. MIT License. 73 de KW4EX</div>
 </div>
 <script type="application/json" id="cat">__CATALOG__</script>
 <script>

@@ -42,7 +42,7 @@ Only one program can use the knob at a time — close DDUtil, and switch off the
 
 ## No warranty — use at your own risk
 
-This program is shared free by one radio operator, **as is**. There is **no warranty of any kind**: no promise that it works, that it is safe, or that it suits your equipment or your purpose. Amplifiers, radios and antennas can be damaged, and RF can be dangerous. TUNE and MOX on the knob really transmit. You are responsible for checking that it behaves correctly with your own station, and for operating within your license. The author is not liable for any damage or loss. It is not made, approved or supported by FlexRadio, Thetis, Thetis HL2 or SDR-VST3. Licensed under the MIT License (see LICENSE.txt).
+This program is shared by one radio operator, **as is**. There is **no warranty of any kind**: no promise that it works, that it is safe, or that it suits your equipment or your purpose. Amplifiers, radios and antennas can be damaged, and RF can be dangerous. TUNE and MOX on the knob really transmit. You are responsible for checking that it behaves correctly with your own station, and for operating within your license. The author is not liable for any damage or loss. It is not made, approved or supported by FlexRadio, Thetis, Thetis HL2 or SDR-VST3. Licensed under the MIT License (see LICENSE.txt).
 
 "FlexRadio", "FlexControl" and "Thetis" are names of their owners; this is an independent, community-made program.
 
